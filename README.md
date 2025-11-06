@@ -82,9 +82,9 @@ setInterval(createHeart,800);
 
 <!-- 메인 슬라이드 -->
 <div class="slider fade-in">
-  <img src="C:\Users\USER\OneDrive\바탕 화면\wedding_invite\메인1.jpg" class="active">
-  <img src="C:\Users\USER\OneDrive\바탕 화면\wedding_invite\메인2.jpg">
-  <img src="C:\Users\USER\OneDrive\바탕 화면\wedding_invite\메인3.jpg">
+  <img src="img\메인1.jpg" class="active">
+  <img src="img\메인2.jpg">
+  <img src="img\메인3.jpg">
   <div class="main-text" id="mainText">Jan Teageun & Han Yean-su</div>
 </div>
 
