@@ -189,7 +189,7 @@ setInterval(createHeart,800);
 <!-- BGM 버튼 -->
 <button id="music-btn">🎵</button>
 <audio id="bgm" loop preload="auto">
-  <source src="C:\Users\USER\OneDrive\바탕 화면\wedding_invite\music.mp3.mp3" type="audio/mpeg">
+  <source src="music.mp3.mp3" type="audio/mpeg">
 </audio>
 
 <script>
