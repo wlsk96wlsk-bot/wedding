@@ -82,9 +82,9 @@ setInterval(createHeart,800);
 
 <!-- 메인 슬라이드 -->
 <div class="slider fade-in">
-  <img src="img\메인1.jpg" class="active">
-  <img src="img\메인2.jpg">
-  <img src="img\메인3.jpg">
+  <img src="메인1.jpg" class="active">
+  <img src="메인2.jpg">
+  <img src="메인3.jpg">
   <div class="main-text" id="mainText">Jan Teageun & Han Yean-su</div>
 </div>
 
@@ -96,7 +96,7 @@ setInterval(createHeart,800);
 
 <!-- 중간 사진 -->
 <section class="fade-in middle-photo">
-  <img src="C:\Users\USER\OneDrive\바탕 화면\wedding_invite\커플사진1.jpg">
+  <img src="커플사진1.jpg">
 </section>
 
 <!-- 달력 -->
@@ -117,9 +117,9 @@ setInterval(createHeart,800);
 <section class="fade-in">
   <h2>Album</h2>
   <div class="album">
-  <img src="C:\Users\USER\OneDrive\바탕 화면\wedding_invite\커플사진2.jpg"><img src="C:\Users\USER\OneDrive\바탕 화면\wedding_invite\커플사진3.jpg">
-    <img src="C:\Users\USER\OneDrive\바탕 화면\wedding_invite\커플사진4.jpg"><img src="C:\Users\USER\OneDrive\바탕 화면\wedding_invite\커플사진5.jpg">
-    <img src="C:\Users\USER\OneDrive\바탕 화면\wedding_invite\커플사진6.jpg"><img src="C:\Users\USER\OneDrive\바탕 화면\wedding_invite\커플사진7.jpg">
+  <img src="커플사진2.jpg"><img src="커플사진3.jpg">
+    <img src="커플사진4.jpg"><img src="커플사진5.jpg">
+    <img src="커플사진6.jpg"><img src="커플사진7.jpg">
   </div>
 </section>
 
